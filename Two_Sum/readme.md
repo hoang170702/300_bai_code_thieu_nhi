@@ -2,7 +2,7 @@
 #### we have two for to compare variable in nums array == target
 #### we return position
 
-```http 
+```
   public static int[] twoSum(int[] nums, int target) {
 
         for (int i = 0; i < nums.length; i++) {
